@@ -1,0 +1,51 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='780' height='1020' viewBox='0 0 780 1020' font-family='Arial, Helvetica, sans-serif'>
+<style>
+.box{fill:#fff;stroke:#333;stroke-width:1.5}
+.uc{fill:#eef2ff;stroke:#4b4fa8;stroke-width:1.5}
+.uct{font-size:14px;text-anchor:middle;fill:#111}
+.grp{font-size:13px;font-weight:bold;fill:#555}
+.ln{stroke:#555;stroke-width:1}
+.act{fill:none;stroke:#111;stroke-width:2}
+</style>
+<rect width='100%' height='100%' fill='#fff'/>
+<rect x='280' y='40' width='480' height='960' class='box'/>
+<text x='520' y='30' text-anchor='middle' font-size='16' font-weight='bold'>Sistema: API REST Baozi Store</text>
+<line x1='148' y1='465' x2='420' y2='132' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='184' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='236' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='288' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='340' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='432' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='484' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='536' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='588' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='640' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='732' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='784' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='836' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='888' class='ln'/>
+<line x1='148' y1='465' x2='420' y2='940' class='ln'/>
+
+<ellipse cx='560' cy='132' rx='140' ry='21' class='uc'/><text x='560' y='137' class='uct'>Cadastrar Cliente</text>
+<ellipse cx='560' cy='184' rx='140' ry='21' class='uc'/><text x='560' y='189' class='uct'>Listar Clientes</text>
+<ellipse cx='560' cy='236' rx='140' ry='21' class='uc'/><text x='560' y='241' class='uct'>Consultar Cliente por ID</text>
+<ellipse cx='560' cy='288' rx='140' ry='21' class='uc'/><text x='560' y='293' class='uct'>Atualizar Cliente</text>
+<ellipse cx='560' cy='340' rx='140' ry='21' class='uc'/><text x='560' y='345' class='uct'>Excluir Cliente</text>
+<ellipse cx='560' cy='432' rx='140' ry='21' class='uc'/><text x='560' y='437' class='uct'>Cadastrar Produto</text>
+<ellipse cx='560' cy='484' rx='140' ry='21' class='uc'/><text x='560' y='489' class='uct'>Listar Produtos</text>
+<ellipse cx='560' cy='536' rx='140' ry='21' class='uc'/><text x='560' y='541' class='uct'>Consultar Produto por ID</text>
+<ellipse cx='560' cy='588' rx='140' ry='21' class='uc'/><text x='560' y='593' class='uct'>Atualizar Produto</text>
+<ellipse cx='560' cy='640' rx='140' ry='21' class='uc'/><text x='560' y='645' class='uct'>Excluir Produto</text>
+<ellipse cx='560' cy='732' rx='140' ry='21' class='uc'/><text x='560' y='737' class='uct'>Registrar Pedido</text>
+<ellipse cx='560' cy='784' rx='140' ry='21' class='uc'/><text x='560' y='789' class='uct'>Listar Pedidos</text>
+<ellipse cx='560' cy='836' rx='140' ry='21' class='uc'/><text x='560' y='841' class='uct'>Consultar Pedido por ID</text>
+<ellipse cx='560' cy='888' rx='140' ry='21' class='uc'/><text x='560' y='893' class='uct'>Atualizar Pedido</text>
+<ellipse cx='560' cy='940' rx='140' ry='21' class='uc'/><text x='560' y='945' class='uct'>Excluir Pedido</text>
+
+<circle cx='120' cy='430' r='16' class='act'/>
+<line x1='120' y1='446' x2='120' y2='510' class='act'/>
+<line x1='90' y1='465' x2='150' y2='465' class='act'/>
+<line x1='120' y1='510' x2='96' y2='550' class='act'/>
+<line x1='120' y1='510' x2='144' y2='550' class='act'/>
+<text x='120' y='575' text-anchor='middle' font-size='15' font-weight='bold'>Usuário da API</text>
+</svg>
